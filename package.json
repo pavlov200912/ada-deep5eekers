@@ -1,5 +1,6 @@
 {
   "name": "ada-deep5eekrs",
+  "homepage": "https://pavlov200912.github.io/ada-deep5eekers",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -13,6 +14,8 @@
     "react-router-dom": "^5.2.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "craco start",
     "build": "craco build",
     "test": "craco test --env=jsdom",

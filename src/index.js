@@ -14,7 +14,7 @@ import NotFound from './views/not-found'
 const App = () => {
   return (
       // Add a basename to the Router for GitHub Pages
-      <Router basename="/deep5eekers">
+      <Router basename="/ada-deep5eekers">
         <Switch>
           {/* Home route */}
           <Route component={Home} exact path="/" />
