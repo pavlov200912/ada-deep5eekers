@@ -1,0 +1,147 @@
+.content-list2-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.content-list2-max-width {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.content-list2-content10 {
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.content-list2-li1 {
+  align-items: flex-start;
+}
+ 
+.content-list2-heading1 {
+  align-self: flex-start;
+}
+ 
+.content-list2-content1 {
+  align-self: flex-start;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+ 
+.content-list2-ul2 {
+  align-items: flex-start;
+  padding-left: var(--dl-space-space-fiveunits);
+}
+ 
+.content-list2-content11 {
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.content-list2-li7 {
+  align-items: flex-start;
+}
+ 
+.content-list2-heading7 {
+  align-self: flex-start;
+}
+ 
+.content-list2-content7 {
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+ 
+.content-list2-ul4 {
+  align-items: flex-start;
+  padding-left: var(--dl-space-space-fiveunits);
+}
+ 
+.content-list2-text10 {
+  display: inline-block;
+}
+ 
+.content-list2-text11 {
+  display: inline-block;
+}
+ 
+.content-list2-text12 {
+  display: inline-block;
+}
+ 
+.content-list2-text13 {
+  display: inline-block;
+}
+ 
+.content-list2-text14 {
+  display: inline-block;
+}
+ 
+.content-list2-text15 {
+  display: inline-block;
+}
+ 
+.content-list2-text16 {
+  display: inline-block;
+}
+ 
+.content-list2-text17 {
+  display: inline-block;
+}
+ 
+.content-list2-text18 {
+  display: inline-block;
+}
+ 
+.content-list2-text19 {
+  display: inline-block;
+}
+ 
+.content-list2-text20 {
+  display: inline-block;
+}
+ 
+.content-list2-text21 {
+  display: inline-block;
+}
+ 
+.content-list2-text22 {
+  display: inline-block;
+}
+ 
+.content-list2-text23 {
+  display: inline-block;
+}
+ 
+.content-list2-text24 {
+  display: inline-block;
+}
+ 
+.content-list2-text25 {
+  display: inline-block;
+}
+ 
+.content-list2-text26 {
+  display: inline-block;
+}
+ 
+@media(max-width: 767px) {
+  .content-list2-ul2 {
+    padding-left: var(--dl-space-space-threeunits);
+  }
+  .content-list2-ul4 {
+    padding-left: var(--dl-space-space-threeunits);
+  }
+}
+ 
+@media(max-width: 479px) {
+  .content-list2-ul2 {
+    padding-left: var(--dl-space-space-oneandhalfunits);
+  }
+  .content-list2-ul4 {
+    padding-left: var(--dl-space-space-oneandhalfunits);
+  }
+}
