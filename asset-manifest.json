@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ada-deep5eekers/static/css/main.2f129da2.css",
-    "main.js": "/ada-deep5eekers/static/js/main.a7cd1069.js",
+    "main.css": "/ada-deep5eekers/static/css/main.ac348e64.css",
+    "main.js": "/ada-deep5eekers/static/js/main.f0c15d93.js",
     "index.html": "/ada-deep5eekers/index.html",
-    "main.2f129da2.css.map": "/ada-deep5eekers/static/css/main.2f129da2.css.map",
-    "main.a7cd1069.js.map": "/ada-deep5eekers/static/js/main.a7cd1069.js.map"
+    "main.ac348e64.css.map": "/ada-deep5eekers/static/css/main.ac348e64.css.map",
+    "main.f0c15d93.js.map": "/ada-deep5eekers/static/js/main.f0c15d93.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f129da2.css",
-    "static/js/main.a7cd1069.js"
+    "static/css/main.ac348e64.css",
+    "static/js/main.f0c15d93.js"
   ]
 }
