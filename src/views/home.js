@@ -83,7 +83,7 @@ const Home = (props) => {
         </div>
         <img
           alt="image"
-          src="/icons/epfl%20ecole%20polytechnique%20federale%20de%20lausanne.svg"
+          src="/ada-deep5eekers/icons/epfl%20ecole%20polytechnique%20federale%20de%20lausanne.svg"
           className="home-image1"
         />
       </header>
@@ -105,7 +105,7 @@ const Home = (props) => {
               <button type="button" className="home-button1 button">
                 <img
                   alt="image"
-                  src="/icons/scales-200h.png"
+                  src="/ada-deep5eekers/icons/scales-200h.png"
                   className="home-image2"
                 />
                 Button
@@ -113,7 +113,7 @@ const Home = (props) => {
               <button type="button" className="home-button2 button">
                 <img
                   alt="image"
-                  src="/icons/stigma-200h.png"
+                  src="/ada-deep5eekers/icons/stigma-200h.png"
                   className="home-image3"
                 />
                 Button
@@ -121,7 +121,7 @@ const Home = (props) => {
               <button type="button" className="home-button3 button">
                 <img
                   alt="image"
-                  src="/icons/graph-200h.png"
+                  src="/ada-deep5eekers/icons/graph-200h.png"
                   className="home-image4"
                 />
                 Button
@@ -129,7 +129,7 @@ const Home = (props) => {
               <button type="button" className="home-button4 button">
                 <img
                   alt="image"
-                  src="/icons/success-200h.png"
+                  src="/ada-deep5eekers/icons/success-200h.png"
                   className="home-image5"
                 />
                 Button
@@ -137,7 +137,7 @@ const Home = (props) => {
               <button type="button" className="home-button5 button">
                 <img
                   alt="image"
-                  src="/icons/director-chair-200h.png"
+                  src="/ada-deep5eekers/icons/director-chair-200h.png"
                   className="home-image6"
                 />
                 Button
