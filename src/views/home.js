@@ -13,8 +13,8 @@ const Home = (props) => {
   return (
     <div className="home-container10">
       <Helmet>
-        <title>Togthr template</title>
-        <meta property="og:title" content="Togthr template" />
+        <title>ADA | Exploring Gender Dynamics in Film</title>
+        <meta property="og:title" content="ADA | Exploring Gender Dynamics in Film" />
       </Helmet>
       <header data-thq="thq-navbar" className="home-navbar-interactive">
         <div className="home-container11">
@@ -81,7 +81,7 @@ const Home = (props) => {
         </div>
         <img
           alt="image"
-          src="/icons/epfl%20ecole%20polytechnique%20federale%20de%20lausanne.svg"
+          src="/ada-deep5eekers/icons/epfl%20ecole%20polytechnique%20federale%20de%20lausanne.svg"
           className="home-image1"
         />
       </header>
@@ -775,7 +775,7 @@ const Home = (props) => {
         <div className="home-container15">
           <img
             alt="image"
-            src="/images/wordcloud_commonsense-500h.jpg"
+            src="/ada-deep5eekers/images/wordcloud_commonsense-500h.jpg"
             className="home-image2"
           />
           <div className="home-container16">
@@ -1041,7 +1041,7 @@ const Home = (props) => {
           <div className="home-container21">
             <img
               alt="image"
-              src="/images/meryl_streep-300h.jpg"
+              src="/ada-deep5eekers/images/meryl_streep-300h.jpg"
               className="home-image3"
             />
             <div className="home-container22">
@@ -1056,7 +1056,7 @@ const Home = (props) => {
           <div className="home-container23">
             <img
               alt="image"
-              src="/images/sandy_powell-300h.jpg"
+              src="/ada-deep5eekers/images/sandy_powell-300h.jpg"
               className="home-image4"
             />
             <div className="home-container24">
@@ -1071,7 +1071,7 @@ const Home = (props) => {
           <div className="home-container25">
             <img
               alt="image"
-              src="/images/colleen_atwood-200w.webp"
+              src="/ada-deep5eekers/images/colleen_atwood-200w.webp"
               className="home-image5"
             />
             <div className="home-quote4">

@@ -13,13 +13,18 @@ import NotFound from './views/not-found'
 
 const App = () => {
   return (
-    <Router>
-      <Switch>
-        <Route component={Home} exact path="/" />
-        <Route component={NotFound} path="**" />
-        <Redirect to="**" />
-      </Switch>
-    </Router>
+      // Add a basename to the Router for GitHub Pages
+      <Router basename="/ada-deep5eekers">
+        <Switch>
+          {/* Home route */}
+          <Route component={Home} exact path="/" />
+
+          {/* Catch-all route for 404 */}
+          <Route component={NotFound} />
+
+          {/* Redirect is not required for this setup */}
+        </Switch>
+      </Router>
   )
 }
 
