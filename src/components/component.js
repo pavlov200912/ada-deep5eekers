@@ -63,21 +63,23 @@ const AppComponent = (props) => {
           <span className="component-text16">
             {props.text42 ?? (
               <Fragment>
-                <span className="component-text26">NO OF VOTES FROM IMDB</span>
+                <span className="component-text26">NUMBER OF IMDB VOTES</span>
               </Fragment>
             )}
           </span>
-          <span>
+          <span className="component-text17">
             {props.text122 ?? (
               <Fragment>
-                <span className="component-text27">?</span>
+                <span className="component-text27">635M</span>
               </Fragment>
             )}
           </span>
           <span className="component-text18">
             {props.text222 ?? (
               <Fragment>
-                <span className="component-text28">...</span>
+                <span className="component-text28">
+                  The number of ratings retrieved from IMDB.
+                </span>
               </Fragment>
             )}
           </span>
@@ -86,14 +88,16 @@ const AppComponent = (props) => {
           <span className="component-text19">
             {props.text52 ?? (
               <Fragment>
-                <span className="component-text25">HOW MANY GENRES</span>
+                <span className="component-text25">
+                  NUMBER OF OSCAR NOMINATIONS
+                </span>
               </Fragment>
             )}
           </span>
           <span>
             {props.text132 ?? (
               <Fragment>
-                <span className="component-text29">?</span>
+                <span className="component-text29">11K</span>
               </Fragment>
             )}
           </span>
@@ -101,7 +105,7 @@ const AppComponent = (props) => {
             {props.text232 ?? (
               <Fragment>
                 <span className="component-text31">
-                  The number of movies in the CMU dataset.
+                  The number of Oscar nominations retrieved.
                 </span>
               </Fragment>
             )}
